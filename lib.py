@@ -1,4 +1,4 @@
-pronouns = {
+pronouns = [
     "1st Person",
     "2nd Person",
     "3rd Person",
@@ -8,22 +8,21 @@ pronouns = {
     "Us (including you)",
     "Y'all",
     "They",
-}
+]
 
-tense = {
+tense = [
     "Past Tense",
     "Present Tense",
     "Future Tense",
     "Transistive (I want)",
-}
+]
 
-form = {
+form = [
     "A form",
     "B form",
-    "C form",
-}
+]
 
-word_bank_nish = {
+word_bank_nish = [
     "Ayaa",
     "Gaasknaabaagwe",
     "Bakade",
@@ -74,9 +73,9 @@ word_bank_nish = {
     "Minidoomnenske",
     "Gaawyeke",
     "Niimi",
-}
+]
 
-word_bank_eng = {
+word_bank_eng = [
     "S/he is (located s.where)",
     "S/he is thirsty",
     "S/he is hungry",
@@ -127,5 +126,5 @@ word_bank_eng = {
     "S/he beads",
     "S/he does quillwork",
     "S/he dances",
-}
+]
 
